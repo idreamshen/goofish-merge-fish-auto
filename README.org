@@ -4,4 +4,4 @@
 3. 开启 chrome 控制台
 4. 将 =auto.js= 中的脚本内容在控制台中执行
 
-[[file:screenshot.png][screenshot]]
+[[file:screenshot.png]]

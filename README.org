@@ -1,7 +1,8 @@
 * 使用教程
 1. 使用 chrome 浏览器访问 https://h5.m.goofish.com/wow/moyu/moyu-project/q3-merge-fish/pages/home?activityId=101522&autoGame=true&forceWebView2001=true&taskId=1015226716&titleVisible=false
-2. 点击“开始游戏”
-3. 开启 chrome 控制台
-4. 将 =auto.js= 中的脚本内容在控制台中执行
+2. 切换至移动端模式，可选 iphone 机型
+3. 点击“开始游戏”
+4. 开启 chrome 控制台
+5. 将 =auto.js= 中的脚本内容在控制台中执行
 
 [[file:screenshot.png]]
